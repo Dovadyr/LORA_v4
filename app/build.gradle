@@ -5,11 +5,11 @@ plugins {
 }
 
 android {
-    namespace 'com.example.lorav4'
+    namespace 'com.jhin.lorav4'
     compileSdk 34
 
     defaultConfig {
-        applicationId "com.example.lorav4"
+        applicationId "com.jhin.lorav4"
         minSdk 30
         targetSdk 34
         versionCode 1

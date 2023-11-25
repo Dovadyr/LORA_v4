@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     android:gravity="center"
     android:orientation="vertical"
-    tools:context=".Sign_up"
+    tools:context="com.jhin.lorav4.Sign_up"
     android:background="#face2f"
     >
 

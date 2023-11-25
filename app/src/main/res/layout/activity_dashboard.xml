@@ -7,7 +7,7 @@
     android:gravity="center"
     android:orientation="vertical"
     android:background="#face2f"
-    tools:context=".Dashboard">
+    tools:context="com.jhin.lorav4.Dashboard">
 
 
   <Button

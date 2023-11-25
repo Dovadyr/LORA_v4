@@ -7,7 +7,7 @@
     android:layout_gravity="center"
     android:gravity="center"
     android:orientation="vertical"
-    tools:context=".Login"
+    tools:context="com.jhin.lorav4.Login"
     android:background="#face2f">
 
     <TextView

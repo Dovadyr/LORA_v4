@@ -1,4 +1,4 @@
-package com.example.lorav4;
+package com.jhin.lorav4;
 
 import android.view.LayoutInflater;
 import android.view.View;
@@ -9,6 +9,8 @@ import android.widget.TextView;
 import androidx.annotation.NonNull;
 import androidx.core.content.ContextCompat;
 import androidx.recyclerview.widget.RecyclerView;
+
+import com.jhin.lorav4.R;
 
 import java.util.List;
 

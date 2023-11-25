@@ -1,4 +1,4 @@
-package com.example.lorav4;
+package com.jhin.lorav4;
 
 public class Order {
     private String orderId;

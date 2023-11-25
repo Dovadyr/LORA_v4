@@ -5,7 +5,7 @@
     android:layout_height="match_parent"
     android:gravity="center"
     android:orientation="vertical"
-    tools:context=".Verify_otp"
+    tools:context="com.jhin.lorav4.Verify_otp"
     android:background="#face2f">
 
     <ImageView

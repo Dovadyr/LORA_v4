@@ -1,4 +1,4 @@
-package com.example.lorav4.utils;
+package com.jhin.lorav4.utils;
 
 import android.content.Context;
 import android.widget.Toast;

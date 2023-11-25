@@ -1,8 +1,10 @@
-package com.example.lorav4;
+package com.jhin.lorav4;
 
 import android.os.Bundle;
 
 import androidx.appcompat.app.AppCompatActivity;
+
+import com.jhin.lorav4.R;
 
 public class Shop_details extends AppCompatActivity {
 

@@ -1,4 +1,4 @@
-package com.example.lorav4;
+package com.jhin.lorav4;
 
 import android.Manifest;
 import android.content.pm.PackageManager;
@@ -22,6 +22,7 @@ import com.android.volley.RequestQueue;
 import com.android.volley.VolleyError;
 import com.android.volley.toolbox.JsonObjectRequest;
 import com.android.volley.toolbox.Volley;
+import com.jhin.lorav4.R;
 import com.google.android.gms.location.FusedLocationProviderClient;
 import com.google.android.gms.location.LocationCallback;
 import com.google.android.gms.location.LocationRequest;

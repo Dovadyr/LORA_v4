@@ -1,10 +1,12 @@
-package com.example.lorav4;
+package com.jhin.lorav4;
 
 import android.content.Intent;
 import android.os.Bundle;
 import android.os.Handler;
 
 import androidx.appcompat.app.AppCompatActivity;
+
+import com.jhin.lorav4.R;
 
 public class Loading_screen extends AppCompatActivity {
 

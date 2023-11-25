@@ -13,7 +13,7 @@
     android:layout_height="match_parent"
     android:background="#face2f"
     android:orientation="vertical"
-    tools:context=".MainActivity">
+    tools:context="com.jhin.lorav4.MainActivity">
 
     <!-- RecyclerView to display data -->
     <androidx.recyclerview.widget.RecyclerView
